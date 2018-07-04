@@ -1,2 +1,5 @@
-入门
-一个用于计算的可写流elementary/countstream.js
+# 入门
+
+ 1. 一个用于计算的可写流
+
+    elementary/countstream.js
